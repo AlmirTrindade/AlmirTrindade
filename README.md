@@ -1,4 +1,4 @@
-<h1> Almir T.</h1>
+<h1> Almir Trindade</h1>
 
 <div align="center">
   <a href="https://github.com/AlmirTrindade">
