@@ -23,7 +23,7 @@
 
   ##
   
- ![Snake animation](https://github.com/AlmirTrindade/Almir-T./blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/AlmirTrindade/AlmirTrindade/blob/output/github-contribution-grid-snake.svg)
   </div>
   
   ##
